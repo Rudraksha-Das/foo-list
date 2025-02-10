@@ -1,2 +1,2 @@
-# foolist
+# Foo-list
 A small wordlist
