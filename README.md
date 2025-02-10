@@ -1,0 +1,2 @@
+# foolist
+A small wordlist
