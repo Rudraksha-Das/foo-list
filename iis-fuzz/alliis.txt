@@ -80,8 +80,6 @@ iisreset/
 iisreset.log
 iisreset.exe
 iisreset/status/
-
-# 💀 IIS LEGACY COMPONENTS & OUTDATED SYSTEM FILES
 MSADC/
 MSADC/msadcs.dll
 _ads/
